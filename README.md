@@ -22,8 +22,8 @@ This project is a people counter that utilizes video analysis and object detecti
 
 1. Clone the repository and navigate to the project directory.
 ```
-git clone https://github.com/jakubpiwowarski/car_counter.git
-cd car-counter
+git clone https://github.com/jakubpiwowarski/people_counter.git
+cd people_counter
 ```
 2. Download the necessary files, such as the YOLO model and the video file, and place them in the appropriate directories.
 - YOLO model:
